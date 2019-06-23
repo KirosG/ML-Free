@@ -77,8 +77,8 @@ Statistical Learning is the introduction course. It is free to earn a certificat
 
 
 ### - Packages:
-  * NLTK: http://www.nltk.org/
-  * Standord packages: https://nlp.stanford.edu/software/
+  * [NLTK:]( http://www.nltk.org/)
+  * [Standord packages:]( https://nlp.stanford.edu/software/)
 
 ### - Comments:
 The basic NLP course by Stanford is the fundamental one. SLP 3ed follows this course. After this, feel free to take one of the three NLP+DL courses. They basically cover same topics. The Stanford one have HWs available online. CMU one follows Goldberg's book. Deepmind one is much shorter.
@@ -100,8 +100,8 @@ Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL
   * FAST.ai: [Course](http://www.fast.ai/)
 
 ### - Books:
-  * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
-  * ArXiv for research updates: https://arxiv.org/. I found it the mobile version of Feedly is useful to follow ArXiv. Also, try https://deeplearn.org/ or http://www.arxiv-sanity.com/top.
+  * Deep learning book by Ian [Goodfellow:]( http://www.deeplearningbook.org/.) Very detailed reference book. 
+  * ArXiv for[research updates:]( https://arxiv.org/.)I found it the mobile version of Feedly is useful to follow [ArXiv. Also, try]( https://deeplearn.org/) or [this]( http://www.arxiv-sanity.com/top.)
 
 ### - Other: 
   * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
@@ -217,9 +217,9 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * Time Series Analysis and Its Applications: [Springer](http://www.springer.com/us/book/9783319524511)
 
 ### - With LSTM:
-  * https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-  * https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
-  * More: https://machinelearningmastery.com/?s=Time+Series&submit=Search
+  * [Time series Prediction LSTM RNN](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+  * [Multivariate-Time-Series-Forecasting-LSTMs-keras](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/)
+  * [Timeseries More:]( https://machinelearningmastery.com/?s=Time+Series&submit=Search)
 
 
 
@@ -245,5 +245,5 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 
 ## More:
-  * Computer Science courses with video lectures: https://github.com/Developer-Y/cs-video-courses
-  * The Open Source Data Science Masters: http://datasciencemasters.org
+  * [Computer Science courses with video lectures:]( https://github.com/Developer-Y/cs-video-courses)
+  * [The Open Source Data Science Masters:]( http://datasciencemasters.org)
